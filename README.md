@@ -25,9 +25,6 @@ Number Guessing Game is a fun and interactive Python-based console game where th
 2. Navigate to the project directory:
    cd Number_Guessing_Game
 
-3. Run the game:
-   python number_guessing_game.py
-
 ## How to Play
 - Upon running the game, you will be greeted with a welcome message and prompted to enter your name.
 - Next, you can choose the difficulty level:
