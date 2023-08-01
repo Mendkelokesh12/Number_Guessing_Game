@@ -1,6 +1,6 @@
 # Number Guessing Game
 
-![Number Guessing Game Screenshot](path_to_screenshot.png)
+![Number Guessing Game Screenshot](https://github.com/Mendkelokesh12/Number_Guessing_Game/assets/125623888/1b8c38a0-dd30-427f-b806-1a7432b13c3e)
 
 ## Description
 
@@ -12,10 +12,6 @@ Number Guessing Game is a fun and interactive Python-based console game where th
 - Interactive console-based user interface.
 - User-friendly prompts and feedback during gameplay.
 - Option to set custom difficulty levels.
-
-## Demo
-
-![Demo GIF](path_to_demo.gif)
 
 ## Installation
 
