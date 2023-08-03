@@ -4,7 +4,7 @@
 
 ## Description
 
-Number Guessing Game is a fun and interactive Python-based console game where the player tries to guess a randomly generated number within a certain range.
+Number Guessing Game is a fun and interactive Java-based console game where the player tries to guess a randomly generated number within a certain range.
 
 ## Features
 
